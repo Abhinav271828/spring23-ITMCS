@@ -12,3 +12,13 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
 * Week 1
     * Lecture 1 (03 January, Tuesday)
         - Introduction
+    * Lecture 2 (06 January, Friday)
+        - Basics of Probability Theory
+            - Random Variables
+            - Joint Distribution
+            - Conditional Distribution
+            - Functions on R.Vs.
+            - Expectation
+            - Variance
+        - Entropy
+            - Definition
