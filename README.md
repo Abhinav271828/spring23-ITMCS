@@ -22,3 +22,11 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
             - Variance
         - Entropy
             - Definition
+* Week 2
+    * Lecture 3 (10 January, Tuesday)
+        - Entropy (contd.)
+            - Properties
+            - Joint Entropy
+            - Conditional Entropy
+            - Mutual Information
+            - Relative Entropy (KL-Divergence)
