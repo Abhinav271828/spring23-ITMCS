@@ -30,3 +30,10 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
             - Conditional Entropy
             - Mutual Information
             - Relative Entropy (KL-Divergence)
+    * Lecture 4 (13 January, Friday)
+        - Shashwat's notes
+* Week 3
+    * Lecture 5 (17 January, Tuesday)
+        - Entropy (contd.)
+            - Subadditivity
+            - Fano's Inequality
