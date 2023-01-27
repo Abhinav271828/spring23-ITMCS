@@ -37,3 +37,10 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Entropy (contd.)
             - Subadditivity
             - Fano's Inequality
+* Week 4
+    * Lecture 6 (21 January, Tuesday)
+        - [missed] Questions
+    * Lecture 7 (27 January, Friday)
+        - Entropy
+            - Fano's Inequality (contd.)
+        - Source Coding
