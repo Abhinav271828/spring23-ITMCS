@@ -44,3 +44,6 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Entropy
             - Fano's Inequality (contd.)
         - Source Coding
+* Week 5
+    * Lecture 8 (31 January, Tuesday)
+        - Source Coding (contd.)
