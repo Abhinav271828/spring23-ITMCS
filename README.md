@@ -47,3 +47,8 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
 * Week 5
     * Lecture 8 (31 January, Tuesday)
         - Source Coding (contd.)
+* Week 6
+    * Lecture 9 (07 February, Tuesday)
+        - Connection between Entropy and Counting
+            - Sorting
+            - Binomial Coefficients
