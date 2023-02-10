@@ -52,3 +52,7 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Connection between Entropy and Counting
             - Sorting
             - Binomial Coefficients
+    * Lecture 10 (10 February, Friday)
+        - Connection between Entropy and Counting
+            - Binomial Coefficients (contd.)
+            - Repetitions in Matrices
