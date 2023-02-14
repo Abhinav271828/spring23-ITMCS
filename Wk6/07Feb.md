@@ -3,7 +3,7 @@ title: Information-Theoretic Methods in Computer Science (CS1.502)
 subtitle: |
           | Spring 2023, IIIT Hyderabad
           | 07 February, Tuesday (Lecture 9)
-author: Taught by Prof. Prasad Krishnan
+author: Taught by Prof. Gowtham Kurri
 header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
 ---

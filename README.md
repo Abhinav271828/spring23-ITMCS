@@ -56,3 +56,9 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Connection between Entropy and Counting
             - Binomial Coefficients (contd.)
             - Repetitions in Matrices
+* Week 7
+    * Lecture 11 (14 February, Tuesday)
+        - Connection Between Entropy and Counting
+            - Repetitions in Matrices (contd.)
+            - Shearer's Lemma
+            - Loomis-Whitney Inequality
