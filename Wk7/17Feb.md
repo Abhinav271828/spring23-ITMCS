@@ -31,7 +31,8 @@ H(X,Y) + H(Y,Z) + H(Z,X) &= H(X) + H(X) \\
 
 ## Shearer's Lemma
 The more general form of Shearer's Lemma states that if we have a family $\mathcal{F}$ of subsets of $[ n] = \{1, \dots, n\}$, such that each $i \in [n]$ appears in at least $k$ subsets, then we have
-$$kH(X_1, \dots, X_n) \leq \sum_{F \in \mathcal{F}} H(X_F).$$
+$$kH(X_1, \dots, X_n) \leq \sum_{F \in \mathcal{F}} H(X_F),$$
+where $X_F$ is defined as $(X_i : i \in F)$.
 
 To prove this, consider some $F = \{i_1, \dots, i_t\}$ in $\mathcal{F}$. Then we have
 $$\begin{split}
