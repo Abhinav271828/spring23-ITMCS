@@ -71,3 +71,6 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Connections between Entropy and Counting
             - Shearer's Lemma (contd.)
             - Bregman's Theorem
+    * Lecture 14 (24 February, Friday)
+        - Connections between Entropy and Counting
+            - Bregman's Theorem (contd.)
