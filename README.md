@@ -74,3 +74,7 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
     * Lecture 14 (24 February, Friday)
         - Connections between Entropy and Counting
             - Bregman's Theorem (contd.)
+* Week 9
+    * Lecture 15 (03 March, Friday)
+        - Connections between Entropy and Counting
+            - Bregman's Theorem (contd.)
