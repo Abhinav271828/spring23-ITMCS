@@ -40,12 +40,12 @@ $$H(\sigma) = \frac1{n!} \sum_{\tau \in S_n} H(\sigma(\tau(1)), \dots, \sigma(\t
 
 We can express the term in the sum as
 $$\begin{split}
-H(\sigma(\tau(1)), \dots, \sigma(\tau(n))) &= \sum_{k=1}^n H(\sigma(\tau(k)) \mid \sigma(\tau(1)), \dots, \sigma(\tau(n))) \\
+H(\sigma(\tau(1)), \dots, \sigma(\tau(n))) &= \sum_{k=1}^n H(\sigma(\tau(k)) \mid \sigma(\tau(1)), \dots, \sigma(\tau(k-1))) \\
 &= \sum_{i=1}^n H(\sigma(i) \mid \sigma(\tau(l)) : l < \tau^{-1}(i))
 \end{split}$$
 
 We will use the following lemma. If $\mathcal{X}$ is the disjoint union of sets $A_i$, $i \in [r]$, and we have a joint distribution $P_{XY}$ such that
-$$\text{supp}(Y \mid X = x_i) \leq i$$
+$$|\text{supp}(Y \mid X = x_i)| \leq i$$
 for all $x_i \in A_i$, then
 $$H(Y \mid X) \leq \sum_{i=1}^r \log(i) P(X \in A_i).$$
 
