@@ -14,7 +14,7 @@ Let us define $N_i(\sigma, \tau)$ as the number of possibilities for $\sigma(i)$
 $$N_i(\sigma, \tau) = |D_i - \{\sigma(\tau(l)) \mid l < \tau^{-1}(i)\}|.$$
 
 We will make use of the following lemma. For a fixed $\sigma \in \text{PF}$,
-$$\sum_{\tau \in S_n} \frac{1\{N_i(\sigma, \tau) = j\}}{n!} = \frac1{d!},$$
+$$\sum_{\tau \in S_n} \frac{1\{N_i(\sigma, \tau) = j\}}{n!} = \frac1{d},$$
 for all $j \in [d_i]$.  
 Thus we can write that
 $$\operatorname*{Pr}_{\tau \sim \text{Unif}(S_n)} (N_i(\sigma, \tau) = j) = \frac1{d_i}, \forall j \in [d_i].$$
