@@ -78,3 +78,12 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
     * Lecture 15 (03 March, Friday)
         - Connections between Entropy and Counting
             - Bregman's Theorem (contd.)
+* Week 10
+    * Lecture 16 (10 March, Friday)
+        - Connections between Entropy and Counting
+            - Bregman's Theorem (contd.)
+* Week 11
+    * Lecture 17 (14 March, Tuesday)
+        - Entropy for Continuous Random Variables
+            - Mutual Information
+            - Quantisation

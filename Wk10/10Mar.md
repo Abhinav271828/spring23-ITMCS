@@ -11,7 +11,7 @@ header-includes:
 **N.B.** I don't know how this ties in with the stuff that was there so far.
 
 # Connections between Entropy and Counting
-## Permutations
+## Bregman's Theorem (contd.)
 Consider a set of numbers $a_1, \dots, a_n$. We wish to find the number of permutations in which a fixed set $a_1, \dots, a_d$, where $d < n$, occur in that order. We can show that this is $\frac{n!}{d!}$.
 
 We can show first that the number of permutations in which a certain $a_i$ occurs at the $j^\text{th}$ place, among $a_1, \dots, a_d$, is $\frac{n!}{d}$.  
