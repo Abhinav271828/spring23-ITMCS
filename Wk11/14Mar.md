@@ -2,7 +2,7 @@
 title: Information-Theoretic Methods in Computer Science (CS1.502)
 subtitle: |
           | Spring 2023, IIIT Hyderabad
-          | 14 March, Tuesday (Lecture 16)
+          | 14 March, Tuesday (Lecture 17)
 author: Taught by Prof. Prasad Krishnan
 header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
@@ -66,9 +66,9 @@ Let $f$ be a PDF. We can say, by the intermediate value theorem, that for any $x
 $$\int_{x_1}^{x_1+\Delta}f(x)dx = \Delta f(\tilde{x}_1).$$
 
 We can therefore quantise the real number line  into intervals of $[\Delta i, \Delta(i+1)]$ for $i \in \mathbb{Z}$, and we can identify a discrete r.v. $X_\Delta = \tilde{x}_i$ as a function of a r.v. $i$.
-$$p_{X_\Delta}(\tilde{x}_i) = \int_{\Delta i}^{\Delta(i+1)} f_X(x) fx.$$
+$$p_{X_\Delta}(\tilde{x}_i) = \int_{\Delta i}^{\Delta(i+1)} f_X(x) dx.$$
 
-What is the relationship between $h(X)$ and $H(X_\Delta)$? We can show that the following statement holds:
+What is the relationship between $h(X)$ and $H(X_\Delta)$? We can show that the following statement holds in the limit of $\Delta \to 0$:
 $$H(X_\Delta) = h(X) + \log\Delta.$$
 
 ऐसा देखा नहीं खूबसूरत कोइ
@@ -84,7 +84,7 @@ $$H(X_\Delta) = h(X) + \log\Delta.$$
 जिस्म जैसे मचलती हुइ रागिनी
 
 जिस्म तरशा हुआ दिल-कशो-दिल-नशीं
-सन्दलीं सन्दलीं मरमरीं-मरमरीं
+सन्दलीं सन्दलीं मरमरीं मरमरीं
 
 हुस्ने-जानाँ की तारीफ़ मुमकिन नहीं
 

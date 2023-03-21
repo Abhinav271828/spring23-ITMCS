@@ -87,3 +87,9 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Entropy for Continuous Random Variables
             - Mutual Information
             - Quantisation
+* Week 12
+    * Lecture 18 (21 March, Tuesday)
+        - Entropy for Continuous Random Variables
+            - Quantisation (contd.)
+            - Scaling
+        - Total Variational Distance
