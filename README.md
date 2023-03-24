@@ -93,3 +93,8 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
             - Quantisation (contd.)
             - Scaling
         - Total Variational Distance
+    * Lecture 19 (24 March, Friday)
+        - Total Variational Distance (contd.)
+            - Pinsker's Inequality
+            - Chain Rule of Relative Entropy
+            - Pinsker's Inequality (contd.)
