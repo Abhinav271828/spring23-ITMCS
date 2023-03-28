@@ -98,3 +98,8 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
             - Pinsker's Inequality
             - Chain Rule of Relative Entropy
             - Pinsker's Inequality (contd.)
+* Week 13
+    * Lecture 20 (28 March, Tuesday)
+        - Total Variational Distance
+            - Pinsker's Inequality (contd.)
+            - Distinguishing Coins
