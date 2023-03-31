@@ -103,3 +103,9 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Total Variational Distance
             - Pinsker's Inequality (contd.)
             - Distinguishing Coins
+    * Lecture 21 (31 March, Friday)
+        - Total Variational Distance
+            - Distinguishing Coins (contd.)
+                - Optimality of the Lower Bound
+                - Chernoff Bound
+                - Optimality of the Lower Bound (contd.)

@@ -55,7 +55,7 @@ for some sufficiently large $p$, say $\frac9{10}$. We can ask what the minimum n
 To find this bound, note that the condition can be rewritten as
 $$\Pr_{x^n \sim Q_{X^n}}[T(x^n)=1] \geq \frac9{10}$$
 and
-$$\Pr_{x^n \sim P_{X^n}}[T(x^n)=0] \leq \frac1{10},$$
+$$\Pr_{x^n \sim P_{X^n}}[T(x^n)=1] \leq \frac1{10},$$
 so then
 $$\Pr_{x^n \sim Q_{X^n}}[T(x^n) = 1] - \Pr_{x^n \sim P_{X^n}}[T(x^n) = 1] \geq \frac8{10}.$$
 Therefore,
