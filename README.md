@@ -109,3 +109,8 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
                 - Optimality of the Lower Bound
                 - Chernoff Bound
                 - Optimality of the Lower Bound (contd.)
+* Week 15
+    * Lecture 22 (11 April, Tuesday)
+        - Information Leakage
+            - Conditions for Leakage Measures
+            - Guessing Framework
