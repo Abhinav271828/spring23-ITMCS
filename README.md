@@ -114,3 +114,8 @@ Notes and resources for the Information-Theoretic Methods in Computer Science in
         - Information Leakage
             - Conditions for Leakage Measures
             - Guessing Framework
+    * Lecture 23 (14 April, Friday)
+        - Information Leakage
+            - Guessing Framework (contd.)
+* Week 16
+    * Lecture 24 (18 April, Tuesday)
